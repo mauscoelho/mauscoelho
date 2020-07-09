@@ -6,7 +6,7 @@
   <br><br>
   <samp>
 I'm Maurício. A Full Stack Developer. I develop web apps and apps using React, React Native and Graphql
-     <br><br>Contact me on <a href="https://twitter.com/mauscoelho">Twitter</a> or <a href="mailto:mcimauricio.coelho@gmail.com">Send an Email</a>
+     <br><br>Contact me on <a href="https://twitter.com/mauscoelho">Twitter</a> or Send an Email to mauscoelho@gmail.com</a>
      
      
   </samp>
